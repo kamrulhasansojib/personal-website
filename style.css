@@ -5,3 +5,33 @@ body{
     color: coral;
     font-size: 40px;
 }
+.first-width{
+    width:30%;
+    float: left;
+    margin: 10%;
+    padding:left 5%;
+}
+.first-width img{
+    width: 120%;
+}
+.top-banner{
+    background-image: url("image/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+section{
+    height: 700px;
+}
+.link-button{
+    background-image: linear-gradient(lightSalmon,tomato);
+    padding: 10px 20px;
+    border-radius: 15px;
+    color: rgb(65, 49, 49);
+    text-decoration: none;
+    font-weight: 700;
+}
+#hello{
+    text-align: justify;
+    font-weight: 800;
+    font-size: large;
+}

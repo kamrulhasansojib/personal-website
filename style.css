@@ -6,10 +6,10 @@ body{
     font-size: 40px;
 }
 .first-width{
-    width:30%;
+    width: 35%;
     float: left;
-    margin: 10%;
-    padding:left 5%;
+    margin: 2%;
+    padding-left: 10%;
 }
 .first-width img{
     width: 90%;
@@ -17,7 +17,7 @@ body{
 .top-banner{
     background-image: url("image/header-bg.png");
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 90%;
 }
 section{
     height: 700px;
@@ -34,4 +34,22 @@ section{
     text-align: justify;
     font-weight: 800;
     font-size: large;
+}
+.l-width img{
+    width: 100%;
+}
+.l-width{
+    width:30%;
+    float: left;
+    margin-left: 2%;
+}
+#work{
+    text-align: center;
+    width: 600;
+    font-size: 35px;
+}
+#cleint{
+      font-size: 40px;
+      text-align: center;
+      font-weight: 1500;
 }

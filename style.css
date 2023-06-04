@@ -53,3 +53,29 @@ section{
       text-align: center;
       font-weight: 1500;
 }
+#bruce{
+    text-align: center;
+    font-weight: 800;
+    font-size: 30px;
+}
+#ceo{
+    text-align: center;
+}
+#lorem{
+    text-align: center;
+    font-size: 25px;
+}
+#leave{
+    text-align: center;
+}
+.last{
+    background-image: linear-gradient(lightSalmon,tomato);
+    border-radius: 10px;
+    height: 150px;
+    margin-top: 5px;
+    padding-top: 10px;
+    
+}
+#foot{
+    text-align: center;
+}
